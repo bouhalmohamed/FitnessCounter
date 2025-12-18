@@ -29,7 +29,7 @@ The app displays:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/FitnessCounter.git
+git clone https://github.com/bouhalmohamed/FitnessCounter.git
 cd FitnessCounter
 
 python3 -m venv venv
